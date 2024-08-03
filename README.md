@@ -1,6 +1,6 @@
 # Shell
 
-For this project, I created a shell in C language that uses up to 8 linux commands. This project was made in CodeBlocks.
+For this project, I implemented a shell in C language that uses up to 8 linux commands. This project was made in CodeBlocks.
 In the shell, when a command is executed sucessfully a blue colored message is shown. If not, then a red colored error message is shown.
 
 # Commands in the shell
